@@ -11,5 +11,6 @@
  
 From the clone or download of this repository, open the example notebook within Jupyter-Lab
 
-## NOTE 
+## Additional Notebook Viewers 
 - Visual Studio Code (https://code.visualstudio.com/) can render jupyter notebooks.  If you are having trouble getting jupyter-lab to spin up, try viewing a notebook in VSC (you may need to install an extension but I bet it recognizes this need for you)
+- Github can render some simple notebooks, and NBViewer can render even more complex ones that are hosted on Github
