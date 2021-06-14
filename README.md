@@ -9,4 +9,4 @@
     + assuming you are working on your local system, this should open a web-browser based application interface for jupyter-lab where notebooks can be edited/run and rendered.
 - you will likely need to install a jupyter-lab extension so within your command line, after activating your NOAAInterns environmments type `jupyter labextension install jupyterlab-plotly` (you can also install it from within jupyter-lab by pre-pending `!` in front of the command and running it in a cell - this is true of all commands related to jupyter that you might otherwise run in a terminal)
  
-Clone or download this repository and open the example notebook within Jupyter-Lab
+From the clone or download of this repository, open the example notebook within Jupyter-Lab
