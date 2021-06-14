@@ -9,4 +9,4 @@ dependencies:
   - pandas
   - xarray
   - plotly
-  - xlrd
+  - openpyxl
