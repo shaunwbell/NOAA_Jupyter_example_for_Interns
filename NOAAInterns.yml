@@ -1,0 +1,11 @@
+name: NOAAInterns
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - jupyter
+  - jupyterlab
+  - numpy
+  - pandas
+  - xarray
+  - plotly

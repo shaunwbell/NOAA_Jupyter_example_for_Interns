@@ -1,4 +1,0 @@
-pandas
-xarray
-plotly
-jupyterlab
